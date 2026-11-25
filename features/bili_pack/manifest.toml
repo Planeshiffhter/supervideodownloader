@@ -1,0 +1,6 @@
+[pack]
+entry = "pack.py"
+class = "BilibiliPack"
+dependencies = ["http_pack", "ffmpeg_pack"]
+version = "1.4.3"
+gdMinVersion = "4.6.0"
